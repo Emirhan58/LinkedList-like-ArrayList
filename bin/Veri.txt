@@ -1,0 +1,7 @@
+E(2#Mehmet Can)
+E(25#Ali)
+E(0#Kenan)
+E(2#Ersin)
+E(3#Mazhar)
+S(3)
+S(49)
