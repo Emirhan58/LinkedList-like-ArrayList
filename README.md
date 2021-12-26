@@ -1,4 +1,4 @@
-# LinkedList-like-ArrayList
+# ArrayList gibi LinkedList
 
 **EK BİLGİLENDİRME**
 
